@@ -9,7 +9,7 @@ Throughout the project I have done many steps which include:
   + Go through well know model for email classification such as (Random Forest, GRU, RNN)
 Tunning parameters to come up with the most optimal result for that model
 
-#Sources
+# Sources
 1. 2007 TREC Public Spam Corpus
 - Original link: https://plg.uwaterloo.ca/~gvcormac/treccorpus07/
 - Preprocessed download link: https://www.kaggle.com/datasets/bayes2003/emails-for-spam-or-ham-classification-trec-2007
